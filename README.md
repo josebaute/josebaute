@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Jose Baute
 
 💻 **Computer Engineering student** passionate about technology, innovation and building impactful products.  
-🚀 Currently focused on **app development**, **cybersecurity**, and **entrepreneurship**.  
+🚀 Currently focused on **app & web development**, **cybersecurity**, and **entrepreneurship**.  
 🏁 Founder mindset — always improving, always TRYHARD.
 
 ---
 
 ### 🧠 About Me
-- 🎓 Studying Computer Engineering @ ULPGC  
-- 🧩 Interested in embedded systems, software design & business strategy  
+- 🎓 Studying Computer Engineering @ UCM  
+- 🧩 Interested in apps & webs development, software design & business strategy  
 - 🏗️ Building projects that combine **tech + purpose**  
 - ☕ Coffee-fueled coder with a focus on clean, scalable solutions  
 
